@@ -1,6 +1,6 @@
 ### Hi there!
 
-![Metrics](https://metrics.lecoq.io/MendelBak)
+[Metrics](https://metrics.lecoq.io/MendelBak)
 
 <!--
 **MendelBak/MendelBak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
